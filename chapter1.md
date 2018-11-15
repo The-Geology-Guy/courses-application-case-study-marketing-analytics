@@ -3,40 +3,13 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Application: Case Study: Marketing Analytics
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: f71138c8ad
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+7bcbe1ffa6edd4d64b5ab0bbeefdeeb0
