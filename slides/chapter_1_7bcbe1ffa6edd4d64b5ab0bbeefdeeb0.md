@@ -22,7 +22,7 @@ My name is Luke Pajer and I am a Digital Marketing Specialist at Beacon.
 
 
 ---
-## **What is in this course?**
+## **Course Topics**
 
 ```yaml
 type: "FullSlide"
