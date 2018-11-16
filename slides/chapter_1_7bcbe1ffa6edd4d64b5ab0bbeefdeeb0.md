@@ -31,7 +31,10 @@ center_content: false
 ```
 
 `@part1`
-
+- **Clean Data Entry:** Data Validations {{1}}
+- **Clean Data Aggregation:** Regular Expressions {{2}}
+- **Visualize the Clean Data:** Google Charts {{3}}
+- **Case Study:** Build a Marketing Analytics Dashboard {{4}}
 
 
 `@script`
