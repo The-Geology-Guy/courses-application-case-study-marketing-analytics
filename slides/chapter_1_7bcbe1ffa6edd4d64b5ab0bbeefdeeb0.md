@@ -13,19 +13,21 @@ key: "b6c2cf86c4"
 `@lower_third`
 
 name: Luke Pajer
-title: Digital Marketing Specialist
+title: Digital Marketing Specialist, Beacon
 
 
 `@script`
-
+Hello! Welcome to the course.
+My name is Luke Pajer and I am a Digital Marketing Specialist at Beacon.
 
 
 ---
-## Using Google Sheets to build a dashboard
+## **WHAT YOU WILL GET FROM THIS COURSE**
 
 ```yaml
 type: "FullSlide"
 key: "1f2b4e7734"
+center_content: false
 ```
 
 `@part1`
