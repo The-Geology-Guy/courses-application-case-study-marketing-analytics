@@ -230,6 +230,44 @@ such as the year-month-day format.
 
 
 ---
+## **Data Validations: Checkbox**
+
+```yaml
+type: "TwoColumns"
+key: "3c403607ec"
+```
+
+`@part1`
+- **Checkbox:** 
+     - Creates a checkbox in each cell in the selection
+     - Default cell values are True/False
+     - Can customize cell values, such as Active/Inactive
+
+**Works well when:**
+- there are only two possible answers
+
+
+`@part2`
+![](http://assets.datacamp.com/production/repositories/4074/datasets/1fc05e996a1cd458e92443dd2cf3cf844e6fcf55/Check.png)
+
+
+`@script`
+The last data validation we will cover is the checkbox.
+
+A checkbox is inserted into each of the cells in the data validation selection.
+
+The default values are True for checked boxes and false for unchecked boxes.
+
+You can customize the values for the boxes, 
+
+such as, having Active for the checked boxes and Inactive for the unchecked boxes
+
+The Checkbox data validation works well when there are only two possible answers
+
+such as if a marketing campaign is currently running or not
+
+
+---
 ## Let's Practice!
 
 ```yaml
