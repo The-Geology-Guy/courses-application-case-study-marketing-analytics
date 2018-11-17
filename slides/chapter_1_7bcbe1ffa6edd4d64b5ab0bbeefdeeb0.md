@@ -110,9 +110,11 @@ key: "117921cb42"
 ```
 
 `@part1`
-- List from a range: 
-- List from 
-- The list may show as a dropdown{{3}}
+- **List from a range:**
+     - Input cell must match a value in a range of cells
+- **List of items: **
+     - Input cell must match a value from a list of items manually entered
+- Both lists may show as a dropdown
 
 **Works well when:**{{4}}
 - There are a small number of options{{5}}
@@ -157,9 +159,9 @@ key: "e1e18bf2d8"
 ```
 
 `@part1`
-- Number: measures if input cell
+- **Number:** measures if input cell
      - is Between, <, >, =, etc...
-- Text: measures if input cell
+- **Text: **measures if input cell
      - contains 'xyz'
      - Is a valid email address or URL
 
