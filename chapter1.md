@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Data Validations for Clean Data Entry'
 description: 'Chapter description goes here.'
 ---
 
