@@ -84,6 +84,98 @@ If the input to the cell does not meet the data validation criteria in place, th
 
 
 ---
+## **Types of Data Validations in Google Sheets**
+
+```yaml
+type: "FullSlide"
+key: "b4f148479e"
+```
+
+`@part1`
+![](http://assets.datacamp.com/production/repositories/4074/datasets/5f31c0f906a4806c35f5654d6f0a6214a3db32d7/DataValidations.png)
+
+
+`@script`
+There are many different types of Data Validations.  
+
+Each one of these Data Validations performs a specific validation.
+
+
+---
+## **Data Validations: List from a range and List of items**
+
+```yaml
+type: "TwoColumns"
+key: "117921cb42"
+```
+
+`@part1`
+- List from a range: 
+- List from 
+- The list may show as a dropdown{{3}}
+
+**Works well when:**{{4}}
+- There are a small number of options{{5}}
+
+
+`@part2`
+![](http://assets.datacamp.com/production/repositories/4074/datasets/d77beb6456f1f278e9f898b3a079161e6cd3d152/Drops.png)
+
+
+`@script`
+[Click]
+
+[Click]
+
+List from a Range and List of Items lets you enter in a list of items to match against the cell's input.  
+
+If the cell does not match any of the items in the list, it will be rejected or show a warning.
+
+[Click]
+
+The items that the cell must match can be viewed as a dropdown in the cell.
+
+[Click]
+
+List validations works very well with multiple parties are entering data that have only a small number of options, such as 
+
+[Click]
+
+days of the week
+
+[Click]
+
+or Marketing Campaign Types
+
+
+---
+## **Data Validations: Number and Text**
+
+```yaml
+type: "TwoColumns"
+key: "e1e18bf2d8"
+```
+
+`@part1`
+- Number: measures if input cell
+     - is Between, <, >, =, etc...
+- Text: measures if input cell
+     - contains 'xyz'
+     - Is a valid email address or URL
+
+**Works well when:**
+- There are an infinite number of options
+
+
+`@part2`
+![](http://assets.datacamp.com/production/repositories/4074/datasets/a2738a9aa8e29c190ce803f0046616bccf1fe0c5/Number.png)
+
+
+`@script`
+
+
+
+---
 ## Let's Practice!
 
 ```yaml
