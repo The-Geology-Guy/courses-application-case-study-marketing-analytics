@@ -202,7 +202,13 @@ key: "f0a5595fbb"
 ```
 
 `@part1`
+- **Date:** checks if the input cell
+     - Is a valid date
+     - Is between certain dates
+     - Is before, after, or equal to a certain date
 
+**Works well when:**
+- All of the dates must have the exact same formatting
 
 
 `@part2`
@@ -210,7 +216,17 @@ key: "f0a5595fbb"
 
 
 `@script`
+The Date Data Validation checks if the input cell
 
+is a valid date,
+
+is between two dates,
+
+or is before, after, or equal to a certain date
+
+This works well when all the dates must have the exact same formatting.  
+
+such as the year-month-day format.
 
 
 ---
