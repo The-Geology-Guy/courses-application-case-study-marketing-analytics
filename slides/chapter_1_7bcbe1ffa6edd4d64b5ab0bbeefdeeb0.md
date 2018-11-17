@@ -178,6 +178,26 @@ key: "e1e18bf2d8"
 
 
 ---
+## Insert title here...
+
+```yaml
+type: "TwoColumns"
+key: "f0a5595fbb"
+```
+
+`@part1`
+
+
+
+`@part2`
+![](image-url)
+
+
+`@script`
+
+
+
+---
 ## Let's Practice!
 
 ```yaml
