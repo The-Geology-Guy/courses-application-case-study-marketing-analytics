@@ -264,7 +264,7 @@ such as, having Active for the checked boxes and Inactive for the unchecked boxe
 
 The Checkbox data validation works well when there are only two possible answers
 
-such as if a marketing campaign is currently running or not
+such as if a marketing campaign is currently running or not.
 
 
 ---
