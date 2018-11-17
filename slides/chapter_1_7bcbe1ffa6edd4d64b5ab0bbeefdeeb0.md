@@ -160,7 +160,7 @@ key: "e1e18bf2d8"
 
 `@part1`
 - **Number:** measures if input cell
-     - is Between, <, >, =, etc...
+     - is between, <, >, =, etc...
 - **Text: **measures if input cell
      - contains 'xyz'
      - Is a valid email address or URL
@@ -174,11 +174,27 @@ key: "e1e18bf2d8"
 
 
 `@script`
+The Number and Text Data Validations measure against a conditions that you set.
 
+The 'Number' Data Validation measures if the input cell is
+
+between, greater than, less than, equal to, etc. a condition.
+
+The 'Text' Data Validation measures if the input cell 
+
+contains some string 
+
+or it can even make sure that the input cell is a valid email address or URL
+
+Both the number and text data validations work well when there are an infinite number of options for the cell, such as 
+
+cost data 
+
+or email addresses.
 
 
 ---
-## Insert title here...
+## **Data Validations: Date**
 
 ```yaml
 type: "TwoColumns"
@@ -190,7 +206,7 @@ key: "f0a5595fbb"
 
 
 `@part2`
-![](image-url)
+![](http://assets.datacamp.com/production/repositories/4074/datasets/0bc212c8523d767c59d406eeadafd624c89668d1/Date.png)
 
 
 `@script`
