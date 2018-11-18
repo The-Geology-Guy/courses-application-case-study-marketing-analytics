@@ -149,13 +149,13 @@ key: "e1e18bf2d8"
 
 `@part1`
 - **Number:** measures if input cell{{1}}
-     - is between, <, >, =, etc...
+     - is between, >, <, =, etc...
 - **Text: **measures if input cell{{2}}
-     - contains 'xyz'
-     - Is a valid email address or URL
+     - contains 'xyz'{{3}}
+     - Is a valid email address or URL{{4}}
 
-**Works well when:**{{3}}
-- There are an infinite number of options{{3}}
+**Works well when:**{{5}}
+- There are an infinite number of options{{6}}
 
 
 `@part2`
