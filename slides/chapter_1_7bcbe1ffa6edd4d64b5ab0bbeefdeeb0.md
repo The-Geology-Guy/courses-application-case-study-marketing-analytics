@@ -60,12 +60,12 @@ key: "cafa36954d"
 
 `@part1`
 - **Google Sheets for Clean Data Entry**{{1}}
-     - Allows for multiple parties to enter data in real time{{2}}
-     - Built-in feature 'Data Validations' for cleaner data entry{{3}}
-- **Data Validations**{{4}}
-     - Mitigate data entry mistakes{{5}}
-     - Apply to a selection of cells{{6}}
-     - Rejects erroneous data{{7}}
+     - Allows for multiple parties to enter data in real time
+     - Built-in feature 'Data Validations' for cleaner data entry
+- **Data Validations**{{2}}
+     - Mitigate data entry mistakes{{3}}
+     - Apply to a selection of cells{{4}}
+     - Rejects erroneous data{{5}}
 
 
 `@script`
@@ -112,13 +112,13 @@ key: "117921cb42"
 
 `@part1`
 - **List from a range:**{{1}}
-     - Input cell must match a value in a range of cells{{2}}
-- **List of items: **{{3}}
-     - Input cell must match a value from a list of items manually entered{{4}}
-- Both lists may show as a dropdown{{5}}
+     - Input cell must match a value in a range of cells
+- **List of items: **{{2}}
+     - Input cell must match a value from a list of items entered manually
+- Both lists may show as a dropdown{{3}}
 
-**Works well when:**{{6}}
-- There are a small number of options{{7}}
+**Works well when:**{{4}}
+- There are a small number of options{{4}}
 
 
 `@part2`
@@ -126,13 +126,13 @@ key: "117921cb42"
 
 
 `@script`
-List from a Range and List of Items lets you enter in a list of items to match against the cell's input.  
+List from a Range matches the input cell against a range of cells selected
 
-If the cell does not match any of the items in the list, it will be rejected or show a warning.
+List of items matches the input cell against a list of items entered manually in the criteria
 
-The items that the cell must match can be viewed as a dropdown in the cell.
+The items that the cell must match, can be viewed as a dropdown in the cell.
 
-List validations works very well with multiple parties are entering data that have only a small number of options, such as 
+List validations work very well when multiple parties are entering data that have only a small number of options, such as 
 
 days of the week
 
@@ -149,13 +149,13 @@ key: "e1e18bf2d8"
 
 `@part1`
 - **Number:** measures if input cell{{1}}
-     - is between, <, >, =, etc...{{2}}
-- **Text: **measures if input cell{{3}}
-     - contains 'xyz'{{4}}
-     - Is a valid email address or URL{{5}}
+     - is between, <, >, =, etc...
+- **Text: **measures if input cell{{2}}
+     - contains 'xyz'
+     - Is a valid email address or URL
 
-**Works well when:**{{6}}
-- There are an infinite number of options{{7}}
+**Works well when:**{{3}}
+- There are an infinite number of options{{3}}
 
 
 `@part2`
@@ -163,13 +163,13 @@ key: "e1e18bf2d8"
 
 
 `@script`
-The Number and Text Data Validations measure against a conditions that you set.
+The Number and Text Data Validations measure against a specified set of conditions.
 
 The 'Number' Data Validation measures if the input cell is between, greater than, less than, equal to, etc. a condition.
 
 The 'Text' Data Validation measures if the input cell 
 
-contains some string 
+contains a certain string 
 
 or it can even make sure that the input cell is a valid email address or URL
 
@@ -195,7 +195,7 @@ key: "f0a5595fbb"
      - Is before, after, or equal to a certain date{{4}}
 
 **Works well when:**{{5}}
-- All of the dates must have the exact same formatting{{6}}
+- All of the dates must have the exact same formatting{{5}}
 
 
 `@part2`
@@ -213,7 +213,7 @@ or is before, after, or equal to a certain date
 
 This works well when all the dates must have the exact same formatting.  
 
-such as the year-month-day format.
+such as a data set requiring the year-month-day format.
 
 
 ---
@@ -231,7 +231,7 @@ key: "3c403607ec"
      - Can customize cell values, such as Active/Inactive{{4}}
 
 **Works well when:**{{5}}
-- there are only two possible answers{{6}}
+- there are only two possible answers{{5}}
 
 
 `@part2`
@@ -263,9 +263,9 @@ key: "43dc4d6108"
 ```
 
 `@script`
-This has been a ton of information I have thrown at you, s
+This has been a ton of information I have thrown at you,
 
-o why dont we test our understanding with a few multiple choice questions before we get into the specifics of each Data Validation type.
+So why dont we test your understanding with a few multiple choice questions before we get into the specifics of each Data Validation type.
 
 Good luck, stay positive, 
 
