@@ -18,7 +18,8 @@ title: Digital Marketing Specialist, Beacon
 
 `@script`
 Hello! Welcome to the course.
-My name is Luke Pajer and I am a Digital Marketing Specialist at Beacon.
+
+My name is Luke Pajer and I am a Digital Marketing Specialist at Beacon
 
 
 ---
@@ -40,13 +41,13 @@ center_content: false
 `@script`
 In this course, we will explore how to utilize Google Sheets for Marketing Analytics.
 
-In this first chapter, we will cover how to make sure the data entry into the google sheet is clean and formatted correctly using the Google Sheets built-in tool Data Validations.
+In this first chapter, we will cover how to ensure that data entry into the google sheet is clean and formatted correctly using the Google Sheets built-in tool Data Validations.
 
-Next, we will look to aggregate data with similar IDs (such as campaign name or Marketing Channel) by using Regular Expressions to account for these slight variations of names that sometimes occur when more than one party is entering data.
+Next, we will look to aggregate data by using Regular Expressions to account for slight variations of names that sometimes occur when more than one party is entering data.
 
-Then, will we visualize the clean and aggregated data by constructing various charts that Google Sheets has available in its extensive toolbox.
+Then, will we visualize the data by constructing various charts that Google Sheets has available.
 
-Finally, we will take all that we have learned from this course and create a Marketing Dashboard that will aid in analysis of Bing and Google Ads Campaign Data.
+Finally, we will take what we learned from this course and create a Marketing Dashboard that will aid in analysis of Bing and Google Ads Campaign Data.
 
 
 ---
@@ -68,19 +69,17 @@ key: "cafa36954d"
 
 
 `@script`
-Now, let us begin with Data Entry
+Google Sheets is a great way to allow multiple parties to collaborate on a data set
 
-Google Sheets is a great way to allow multiple parties to manually enter data into a single table. 
+but, manually entering data almost always leads to a few mistakes.
 
-An example of this would be a Digital Marketing Team where team members may enter data from the various campaigns they are running into a single table.
+Luckily, we have Data Validations which
 
-The collaborative aspect of this example is great, but, manually entering data almost always leads to a few mistakes.
+help mitigate data entry mistakes
 
-Luckily, we have Data Validations to help mitigate data entry issues.
+Are simply rules that you apply to a selection of cells.
 
-These so-called Data Validations are simply rules that you apply to a selection of cells.
-
-If the input to the cell does not meet the data validation criteria in place, then an error is shown in the cell [as seen in this image], or may even reject your entry outright, which we will discuss the later, later in this chapter.
+and if the input cell does not meet the data validation, then an error is shown in the cell, and can even reject your entry outright.
 
 
 ---
@@ -127,27 +126,15 @@ key: "117921cb42"
 
 
 `@script`
-[Click]
-
-[Click]
-
 List from a Range and List of Items lets you enter in a list of items to match against the cell's input.  
 
 If the cell does not match any of the items in the list, it will be rejected or show a warning.
 
-[Click]
-
 The items that the cell must match can be viewed as a dropdown in the cell.
-
-[Click]
 
 List validations works very well with multiple parties are entering data that have only a small number of options, such as 
 
-[Click]
-
 days of the week
-
-[Click]
 
 or Marketing Campaign Types
 
@@ -178,9 +165,7 @@ key: "e1e18bf2d8"
 `@script`
 The Number and Text Data Validations measure against a conditions that you set.
 
-The 'Number' Data Validation measures if the input cell is
-
-between, greater than, less than, equal to, etc. a condition.
+The 'Number' Data Validation measures if the input cell is between, greater than, less than, equal to, etc. a condition.
 
 The 'Text' Data Validation measures if the input cell 
 
