@@ -99,7 +99,7 @@ There are many different types of Data Validations,
 
 seven different types to be exact 
 
-where each one of performs a specific validation.
+where each one performs a specific validation.
 
 
 ---
