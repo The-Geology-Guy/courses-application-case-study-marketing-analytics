@@ -96,9 +96,11 @@ key: "b4f148479e"
 
 
 `@script`
-There are many different types of Data Validations.  
+There are many different types of Data Validations, 
 
-Each one of these Data Validations performs a specific validation.
+seven different types to be exact 
+
+where each one of performs a specific validation.
 
 
 ---
@@ -110,14 +112,14 @@ key: "117921cb42"
 ```
 
 `@part1`
-- **List from a range:**
-     - Input cell must match a value in a range of cells
-- **List of items: **
-     - Input cell must match a value from a list of items manually entered
-- Both lists may show as a dropdown
+- **List from a range:**{{1}}
+     - Input cell must match a value in a range of cells{{2}}
+- **List of items: **{{3}}
+     - Input cell must match a value from a list of items manually entered{{4}}
+- Both lists may show as a dropdown{{5}}
 
-**Works well when:**{{4}}
-- There are a small number of options{{5}}
+**Works well when:**{{6}}
+- There are a small number of options{{7}}
 
 
 `@part2`
@@ -159,14 +161,14 @@ key: "e1e18bf2d8"
 ```
 
 `@part1`
-- **Number:** measures if input cell
-     - is between, <, >, =, etc...
-- **Text: **measures if input cell
-     - contains 'xyz'
-     - Is a valid email address or URL
+- **Number:** measures if input cell{{1}}
+     - is between, <, >, =, etc...{{2}}
+- **Text: **measures if input cell{{3}}
+     - contains 'xyz'{{4}}
+     - Is a valid email address or URL{{5}}
 
-**Works well when:**
-- There are an infinite number of options
+**Works well when:**{{6}}
+- There are an infinite number of options{{7}}
 
 
 `@part2`
@@ -202,13 +204,13 @@ key: "f0a5595fbb"
 ```
 
 `@part1`
-- **Date:** checks if the input cell
-     - Is a valid date
-     - Is between certain dates
-     - Is before, after, or equal to a certain date
+- **Date:** checks if the input cell{{1}}
+     - Is a valid date{{2}}
+     - Is between certain dates{{3}}
+     - Is before, after, or equal to a certain date{{4}}
 
-**Works well when:**
-- All of the dates must have the exact same formatting
+**Works well when:**{{5}}
+- All of the dates must have the exact same formatting{{6}}
 
 
 `@part2`
@@ -238,13 +240,13 @@ key: "3c403607ec"
 ```
 
 `@part1`
-- **Checkbox:** 
-     - Creates a checkbox in each cell in the selection
-     - Default cell values are True/False
-     - Can customize cell values, such as Active/Inactive
+- **Checkbox:**{{1}}
+     - Creates a checkbox in each cell in the selection{{2}}
+     - Default cell values are True/False{{3}}
+     - Can customize cell values, such as Active/Inactive{{4}}
 
-**Works well when:**
-- there are only two possible answers
+**Works well when:**{{5}}
+- there are only two possible answers{{6}}
 
 
 `@part2`
@@ -276,5 +278,11 @@ key: "43dc4d6108"
 ```
 
 `@script`
+This has been a ton of information I have thrown at you, s
 
+o why dont we test our understanding with a few multiple choice questions before we get into the specifics of each Data Validation type.
+
+Good luck, stay positive, 
+
+I’ll see you at the beginning of the next lesson!
 
