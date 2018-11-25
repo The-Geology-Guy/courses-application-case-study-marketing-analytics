@@ -45,13 +45,13 @@ key: "d8643db7fe"
 ```
 
 `@part1`
-- **Source Dropdown (Top)** to filter between Google, Bing, or All
-- **Campaign Dropdown (Bottom)** to filter between the Paid Search Campaigns
-- **Pie Chart** to visualize the Ad Groups associated with the selected Source and Campaign
+- **Source Dropdown (Top)** to filter between Google, Bing, or All{{1}}
+- **Campaign Dropdown (Bottom)** to filter between the Paid Search Campaigns{{2}}
+- **Pie Chart** to visualize the Ad Groups associated with the selected Source and Campaign{{3}}
 
 
 `@part2`
-![](http://assets.datacamp.com/production/repositories/4074/datasets/4d0607d77d0dd8a851e157cb78b9f1b504a00a1b/pieAdGroup.png)
+![](http://assets.datacamp.com/production/repositories/4074/datasets/4d0607d77d0dd8a851e157cb78b9f1b504a00a1b/pieAdGroup.png){{1}}
 
 
 `@script`
